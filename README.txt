@@ -1,5 +1,3 @@
-PROJETO DE BLOCO – TP5  
-Aluno: Rainer Sacks De Almeida Caram Jaime
 Disciplina: Banco de Dados + Python  
 
 ============================================================
